@@ -12,3 +12,6 @@ def add(a,b):
 	sum = a + b
 	return sum
 
+def shout():
+    print("SHOUT")
+
